@@ -1,0 +1,15 @@
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.csproj.AssemblyReference.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.AssemblyInfoInputs.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.AssemblyInfo.cs
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.csproj.CoreCompileInputs.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/bin/Debug/net7.0/Example4
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/bin/Debug/net7.0/Example4.deps.json
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/bin/Debug/net7.0/Example4.runtimeconfig.json
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/bin/Debug/net7.0/Example4.dll
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/bin/Debug/net7.0/Example4.pdb
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.dll
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/refint/Example4.dll
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.pdb
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/Example4.genruntimeconfig.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example4/obj/Debug/net7.0/ref/Example4.dll
