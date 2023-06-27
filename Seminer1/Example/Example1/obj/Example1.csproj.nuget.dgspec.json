@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/examples1/examples1.csproj": {}
+    "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example1/Example1.csproj": {}
   },
   "projects": {
-    "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/examples1/examples1.csproj": {
+    "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example1/Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/examples1/examples1.csproj",
-        "projectName": "examples1",
-        "projectPath": "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/examples1/examples1.csproj",
+        "projectUniqueName": "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example1/Example1.csproj",
+        "projectName": "Example1",
+        "projectPath": "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example1/Example1.csproj",
         "packagesPath": "/Users/redzilatopchvich/.nuget/packages/",
-        "outputPath": "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/examples1/obj/",
+        "outputPath": "/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer1/Example/Example1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/redzilatopchvich/.nuget/NuGet/NuGet.Config"
