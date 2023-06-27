@@ -1,4 +1,5 @@
-﻿int a = Convert.ToInt32(Console.ReadLine());
+﻿// Все четные числа до определенного числа
+int a = Convert.ToInt32(Console.ReadLine());
 Console.Clear();
 for (int i = 0; i < a; i++)
 {
