@@ -1,0 +1,15 @@
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/bin/Debug/net7.0/Domashnee2
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/bin/Debug/net7.0/Domashnee2.deps.json
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/bin/Debug/net7.0/Domashnee2.runtimeconfig.json
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/bin/Debug/net7.0/Domashnee2.dll
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/bin/Debug/net7.0/Domashnee2.pdb
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.csproj.AssemblyReference.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.AssemblyInfoInputs.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.AssemblyInfo.cs
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.csproj.CoreCompileInputs.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.dll
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/refint/Domashnee2.dll
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.pdb
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/Domashnee2.genruntimeconfig.cache
+/Users/redzilatopchvich/Desktop/Visual/VvedenieVIziki/Seminer7/Examples/Domashnee2/obj/Debug/net7.0/ref/Domashnee2.dll
